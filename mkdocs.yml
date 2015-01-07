@@ -8,6 +8,7 @@ pages:
 - ['cataloging_module.md', 'Core Modules', 'Cataloging']
 - ['administration.md', 'Core Modules','Administration']
 - ['opac.md', 'Core Modules', 'OPAC']
+- ['contibute.md', 'Contributions','How-To']
 
 markdown_extensions: [admonition]
 theme: readthedocs
