@@ -1,0 +1,13 @@
+site_name: Sage Documentation Site
+pages:
+- ['index.md', 'Home']
+- ['getting_started.md', 'Overview', 'Getting Started']
+- ['cm_circulation_brief.md', 'Overview', 'Circulation Overview']
+- ['catm_cataloging_brief.md', 'Overview', 'Cataloging Overview']
+- ['circulation_module.md', 'Core Modules', 'Circulation']
+- ['cataloging_module.md', 'Core Modules', 'Cataloging']
+- ['administration.md', 'Core Modules','Administration']
+- ['opac.md', 'Core Modules', 'OPAC']
+
+markdown_extensions: [admonition]
+theme: readthedocs
