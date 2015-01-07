@@ -48,6 +48,7 @@ This Documentation repository is built with [Markdown](http://daringfireball.net
 	  </tr>
 	</table>
 </div>
+</br>
 <!--
 <div class="jumbotron">
 	<center>
