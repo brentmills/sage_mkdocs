@@ -6,9 +6,11 @@ pages:
 - ['catm_cataloging_brief.md', 'Overview', 'Cataloging Overview']
 - ['circulation_module.md', 'Core Modules', 'Circulation']
 - ['cataloging_module.md', 'Core Modules', 'Cataloging']
-- ['administration.md', 'Core Modules','Administration']
 - ['opac.md', 'Core Modules', 'OPAC']
-- ['contribute.md', 'Contributions','How-To']
+- ['administration.md', 'Core Modules','Administration']
+- ['cat_materials_migrated.md', 'Migrated Materials', 'Cataloging Materials - Sage Wiki']
+- ['contact_info.md', 'Miscellaneous', 'Library Contact Information']
+- ['contribute.md', 'Miscellaneous', 'Contributions: How-To']
 
 markdown_extensions: [admonition]
 theme: readthedocs
