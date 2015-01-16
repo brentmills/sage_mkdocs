@@ -4,7 +4,7 @@
 <hr size=2>
 
 ## Searching the OPAC/Catalog
-* [Advanced Search / Numeric Search / MARC Expert Search]((http://docs.evergreen-ils.org/2.5/_advanced_search.html)
+* [Advanced Search / Numeric Search / MARC Expert Search](http://docs.evergreen-ils.org/2.5/_advanced_search.html)
 * [Z39.50 Search](http://docs.sitka.bclibraries.ca/Sitka/current/html/MARC_Z39.50.html)
 
 ## Adding Holdings to Existing Sage Records
@@ -59,7 +59,7 @@
 * [Adding Monograph Parts (needs update)](/cat_materials_migrated/#catm_multipart_holdings)
 * [MARC fields for RDA Material Description](/cat_materials_migrated/#catm_rda_material_type)
 
-<b>Required & Recommended MARC Fields For Records within Sage</b>
+<i class="fa fa-exclamation-circle"></i> <b>Required & Recommended MARC Fields For Records within Sage</b>
 
 * [Required Fields for Serial Record](/cat_materials_migrated/#catm_required_fields_serial)
 * [Required Fields for Books](/cat_materials_migrated/#catm_required_fields_book)

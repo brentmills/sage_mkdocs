@@ -26,6 +26,8 @@
 * [Recommended Fields for Sound Recordings](#catm_sound_rec_standards)
 * [Recommended Fields for Video Recordings](#catm_video_rec_standards)
 * [Cataloging Support and Online Help](#catm_support_and_online_help)
+<hr size=2>
+
 <a name="catm_856"></a>
 ### Adding 856 field to existing bibliographic record
 
