@@ -331,4 +331,239 @@
  <tr><td>Weston Public Library</td><td>&nbsp;</td><td>See: http://www.westonpubliclibrary.com/library-hours/</td></tr>
 </table>
 
+<br>
+##Abbreviated Circulation Rules Table
+<hr size=2>
+
+<table class="tableizer-table">
+<tr class="tableizer-firstrow"><th>Shortname</th><th>Permission Group</th><th>Circ Modifier</th><th>Renewals?</th><th>Duration Rule</th><th>Recurring Fine Rule</th><th>Max Fine Rule</th><th>id</th></tr>
+ <tr><td>BCL-BKM</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>42_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2373</td></tr>
+ <tr><td>BCLDIST</td><td>FULL PRIVILEGES</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>&nbsp;</td><td>2406</td></tr>
+ <tr><td>BCLDIST</td><td>LIMITED - 12 CKO</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>&nbsp;</td><td>2416</td></tr>
+ <tr><td>BCLDIST</td><td>LIMITED - 2 CKO</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>&nbsp;</td><td>2414</td></tr>
+ <tr><td>BCLDIST</td><td>LIMITED - 6 CKO</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>&nbsp;</td><td>2415</td></tr>
+ <tr><td>BCLDIST</td><td>LIMITED - NO PC</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>&nbsp;</td><td>2417</td></tr>
+ <tr><td>BCLDIST</td><td>READY2LEARN</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>05_cent_per_day</td><td>&nbsp;</td><td>2405</td></tr>
+ <tr><td>BCLDIST</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2205</td></tr>
+ <tr><td>BCLDIST</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2204</td></tr>
+ <tr><td>BMCC</td><td>STAFF & FACULTY</td><td>Audiobook Cassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1325</td></tr>
+ <tr><td>BMCC</td><td>STAFF & FACULTY</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_3D_7D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2214</td></tr>
+ <tr><td>BMCC</td><td>STAFF & FACULTY</td><td>Hourly Reserves</td><td>&nbsp;</td><td>2H_2H_2H_0</td><td>20_cent_per_hour</td><td>&nbsp;</td><td>2213</td></tr>
+ <tr><td>BMCC</td><td>STAFF & FACULTY</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2208</td></tr>
+ <tr><td>BMCC</td><td>STUDENT - ACADEMIC</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_3D_7D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2215</td></tr>
+ <tr><td>BMCC</td><td>STUDENT - ACADEMIC</td><td>Hourly Reserves</td><td>&nbsp;</td><td>2H_2H_2H_0</td><td>20_cent_per_hour</td><td>&nbsp;</td><td>2212</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>Cassette</td><td>&nbsp;</td><td>14_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2210</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>CD</td><td>&nbsp;</td><td>14_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2209</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>3D_3D_3D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2217</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>3D_3D_3D_2</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1315</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>Music CD</td><td>&nbsp;</td><td>14_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2211</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>Pamphlet</td><td>&nbsp;</td><td>3D_3D_3D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2216</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>7D_7D_7D_1</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1322</td></tr>
+ <tr><td>BMCC</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2207</td></tr>
+ <tr><td>CGCC</td><td>STAFF & FACULTY</td><td>Daily Reserves</td><td>&nbsp;</td><td>3D_3D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2220</td></tr>
+ <tr><td>CGCC</td><td>STAFF & FACULTY</td><td>Hourly Reserves</td><td>&nbsp;</td><td>3H_3H_24H_1</td><td>20_cent_per_hour</td><td>&nbsp;</td><td>2224</td></tr>
+ <tr><td>CGCC</td><td>STUDENT - ACADEMIC</td><td>Daily Reserves</td><td>&nbsp;</td><td>3D_3D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2219</td></tr>
+ <tr><td>CGCC</td><td>STUDENT - ACADEMIC</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_7D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2221</td></tr>
+ <tr><td>CGCC</td><td>STUDENT - ACADEMIC</td><td>Hourly Reserves</td><td>&nbsp;</td><td>3H_3H_24H_1</td><td>20_cent_per_hour</td><td>&nbsp;</td><td>2223</td></tr>
+ <tr><td>CGCC</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_7D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2413</td></tr>
+ <tr><td>CGCC</td><td>Users</td><td>ILL Material</td><td>&nbsp;</td><td>28_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2375</td></tr>
+ <tr><td>CGCC</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2218</td></tr>
+ <tr><td>CGCC-HR</td><td>STUDENT - ACADEMIC</td><td>Daily Reserves</td><td>&nbsp;</td><td>3D_3D_7D_1</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1105</td></tr>
+ <tr><td>CGCC-HR</td><td>STUDENT - ACADEMIC</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_7D_0</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1106</td></tr>
+ <tr><td>CGCC-HR</td><td>STUDENT - ACADEMIC</td><td>Hourly Reserves</td><td>&nbsp;</td><td>3H_3H_24H_1</td><td>20_cent_per_hour</td><td>0_00</td><td>1027</td></tr>
+ <tr><td>FOS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>5_00</td><td>2340</td></tr>
+ <tr><td>GC-ARL</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2256</td></tr>
+ <tr><td>GC-ARL</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2257</td></tr>
+ <tr><td>GC-ARL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2255</td></tr>
+ <tr><td>GC-CONHS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2261</td></tr>
+ <tr><td>GC-GCL</td><td>Users</td><td>Computer/Laptop</td><td>&nbsp;</td><td>1D_1D_1D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2260</td></tr>
+ <tr><td>GC-GCL</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>3D_3D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2259</td></tr>
+ <tr><td>GC-GCL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2258</td></tr>
+ <tr><td>GR-GCL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2262</td></tr>
+ <tr><td>HC-CRANE</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2266</td></tr>
+ <tr><td>HC-HCL</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2264</td></tr>
+ <tr><td>HC-HCL</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2265</td></tr>
+ <tr><td>HC-HCL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day_5dygrace</td><td>5_00</td><td>2263</td></tr>
+ <tr><td>HR-CLL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day_3dygrace</td><td>1_00</td><td>2348</td></tr>
+ <tr><td>HR-HRCL</td><td>Users</td><td>ILL Material</td><td>&nbsp;</td><td>21_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2378</td></tr>
+ <tr><td>HR-HRCL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day_3dygrace</td><td>1_00</td><td>2347</td></tr>
+ <tr><td>HR-HRHS</td><td>PATRON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2433</td></tr>
+ <tr><td>HR-HRHS</td><td>STAFF & FACULTY</td><td>Memory Stick</td><td>&nbsp;</td><td>1_day_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2272</td></tr>
+ <tr><td>HR-HRHS</td><td>STAFF & FACULTY</td><td>&nbsp;</td><td>&nbsp;</td><td>42_days_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2273</td></tr>
+ <tr><td>HR-HRHS</td><td>STUDENT - HIGH SCHOOL</td><td>Book</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2269</td></tr>
+ <tr><td>HR-HRHS</td><td>STUDENT - HIGH SCHOOL</td><td>Book</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2420</td></tr>
+ <tr><td>HR-HRHS</td><td>STUDENT - HIGH SCHOOL</td><td>Memory Stick</td><td>&nbsp;</td><td>1_day_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2270</td></tr>
+ <tr><td>HR-HRHS</td><td>STUDENT - HIGH SCHOOL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2432</td></tr>
+ <tr><td>HR-HRHS</td><td>STUDENT - HS SENIOR</td><td>Book</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2268</td></tr>
+ <tr><td>HR-HRHS</td><td>STUDENT - HS SENIOR</td><td>Book</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2421</td></tr>
+ <tr><td>HR-HRHS</td><td>STUDENT - HS SENIOR</td><td>Memory Stick</td><td>&nbsp;</td><td>1_day_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2271</td></tr>
+ <tr><td>HR-HRHS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2267</td></tr>
+ <tr><td>HR-PCL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day_3dygrace</td><td>1_00</td><td>2349</td></tr>
+ <tr><td>HRDIST</td><td>FULL PRIVILEGES</td><td>Book Club Kits</td><td>&nbsp;</td><td>42_days_0_renew</td><td>10_cent_per_day</td><td>&nbsp;</td><td>2434</td></tr>
+ <tr><td>HRDIST</td><td>FULL PRIVILEGES</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day_3dygrace</td><td>1_00</td><td>2402</td></tr>
+ <tr><td>HRDIST</td><td>INSTITUTION</td><td>Book</td><td>&nbsp;</td><td>28_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2429</td></tr>
+ <tr><td>HRDIST</td><td>INSTITUTION</td><td>DVD</td><td>&nbsp;</td><td>28_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2428</td></tr>
+ <tr><td>HRDIST</td><td>INSTITUTION</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2427</td></tr>
+ <tr><td>HRDIST</td><td>INSTITUTION</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2426</td></tr>
+ <tr><td>HRDIST</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>7d7d21d_HRCLD_DVD</td><td>&nbsp;</td><td>&nbsp;</td><td>2407</td></tr>
+ <tr><td>HRDIST</td><td>Users</td><td>Ephemera</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2391</td></tr>
+ <tr><td>HRDIST</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>21_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2389</td></tr>
+ <tr><td>HRDIST</td><td>Users</td><td>Museum Passes</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2390</td></tr>
+ <tr><td>HSL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2206</td></tr>
+ <tr><td>KC-KFCC</td><td>STUDENT - ACADEMIC</td><td>Hourly Reserves</td><td>&nbsp;</td><td>1H_2H_3H_3</td><td>&nbsp;</td><td>&nbsp;</td><td>2435</td></tr>
+ <tr><td>LCLDIST</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>7D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2275</td></tr>
+ <tr><td>LCLDIST</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>7_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2276</td></tr>
+ <tr><td>LCLDIST</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>15_cent_per_day</td><td>5_00</td><td>2274</td></tr>
+ <tr><td>MC-NYSSA</td><td>Users</td><td>Computer/Laptop</td><td>&nbsp;</td><td>1D_1D_3D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2278</td></tr>
+ <tr><td>MC-NYSSA</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2395</td></tr>
+ <tr><td>MC-NYSSA</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2277</td></tr>
+ <tr><td>MC-NYSSA</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2396</td></tr>
+ <tr><td>MC-OHS</td><td>STUDENT - HIGH SCHOOL</td><td>Book</td><td>&nbsp;</td><td>1D_1D_1D_2</td><td>50_cent_per_day</td><td>25_00</td><td>2343</td></tr>
+ <tr><td>MC-OHS</td><td>STUDENT - HIGH SCHOOL</td><td>Book</td><td>&nbsp;</td><td>21D_21D_21D_2</td><td>05_cent_per_day</td><td>25_00</td><td>1205</td></tr>
+ <tr><td>MC-OHS</td><td>STUDENT - HIGH SCHOOL</td><td>DVD</td><td>&nbsp;</td><td>5D_5D_5D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2280</td></tr>
+ <tr><td>MC-OHS</td><td>STUDENT - HIGH SCHOOL</td><td>Periodical</td><td>&nbsp;</td><td>5D_5D_5D_0</td><td>50_cent_per_day</td><td>7_00</td><td>2281</td></tr>
+ <tr><td>MC-OHS</td><td>STUDENT - HIGH SCHOOL</td><td>Textbook</td><td>&nbsp;</td><td>1D_1D_1D_2</td><td>50_cent_per_day</td><td>25_00</td><td>2357</td></tr>
+ <tr><td>MC-OHS</td><td>STUDENT - HIGH SCHOOL</td><td>Videocassette</td><td>&nbsp;</td><td>5D_5D_5D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2282</td></tr>
+ <tr><td>MC-OHS</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>5D_5D_5D_0</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1112</td></tr>
+ <tr><td>MC-OHS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2279</td></tr>
+ <tr><td>MC-OMS</td><td>STUDENT - MIDDLE SCHOOL</td><td>Book</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2376</td></tr>
+ <tr><td>MC-OMS</td><td>STUDENT - MIDDLE SCHOOL</td><td>Periodical</td><td>&nbsp;</td><td>5D_5D_5D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2283</td></tr>
+ <tr><td>MC-OMS</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>5D_5D_5D_0</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1059</td></tr>
+ <tr><td>MC-OMS</td><td>Users</td><td>Reading Program Book</td><td>&nbsp;</td><td>21D_21D_21D_1</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1057</td></tr>
+ <tr><td>MC-OMS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2284</td></tr>
+ <tr><td>MC-VHS</td><td>STUDENT - HIGH SCHOOL</td><td>Audiobook Cassette</td><td>&nbsp;</td><td>7D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2287</td></tr>
+ <tr><td>MC-VHS</td><td>STUDENT - HIGH SCHOOL</td><td>Audiobook CD</td><td>&nbsp;</td><td>7D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2289</td></tr>
+ <tr><td>MC-VHS</td><td>STUDENT - HIGH SCHOOL</td><td>Periodical</td><td>&nbsp;</td><td>7D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2286</td></tr>
+ <tr><td>MC-VHS</td><td>Users</td><td>Audiobook Cassette</td><td>&nbsp;</td><td>7D_7D_7D_1</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1085</td></tr>
+ <tr><td>MC-VHS</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>7D_7D_7D_1</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1060</td></tr>
+ <tr><td>MC-VHS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2285</td></tr>
+ <tr><td>OTLD</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2292</td></tr>
+ <tr><td>OTLD</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2291</td></tr>
+ <tr><td>OTLD</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2293</td></tr>
+ <tr><td>OTLD</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>21_days_2_renew</td><td>20_cent_per_day</td><td>5_00</td><td>2381</td></tr>
+ <tr><td>PIERCE</td><td>ILL</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_0_renew</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2353</td></tr>
+ <tr><td>PIERCE</td><td>STAFF & FACULTY</td><td>Book</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2341</td></tr>
+ <tr><td>PIERCE</td><td>STAFF & FACULTY</td><td>CD</td><td>&nbsp;</td><td>1D_3D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2235</td></tr>
+ <tr><td>PIERCE</td><td>STAFF & FACULTY</td><td>DVD</td><td>&nbsp;</td><td>3D_3D_3D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2342</td></tr>
+ <tr><td>PIERCE</td><td>STAFF & FACULTY</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_3D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2247</td></tr>
+ <tr><td>PIERCE</td><td>STAFF & FACULTY</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_3D_0</td><td>0_50_1_00_1_25_1_day</td><td>10_00</td><td>2191</td></tr>
+ <tr><td>PIERCE</td><td>STAFF & FACULTY</td><td>Summit ILL</td><td>&nbsp;</td><td>6D_42</td><td>&nbsp;</td><td>&nbsp;</td><td>2246</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - ACADEMIC</td><td>Computer/Laptop</td><td>&nbsp;</td><td>4H_4H_4H_2</td><td>10_00_10_00_10_00_1_hour</td><td>120_00</td><td>2231</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - ACADEMIC</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_3D_7D_3</td><td>&nbsp;</td><td>&nbsp;</td><td>2230</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - ACADEMIC</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_3D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2249</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - ACADEMIC</td><td>Hourly Reserves</td><td>&nbsp;</td><td>1H_2H_3H_3</td><td>0_01_0_25_0_50_1_hour</td><td>10_00</td><td>2226</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - ACADEMIC</td><td>Summit ILL</td><td>&nbsp;</td><td>6D_42</td><td>50_cent_per_day</td><td>20_00</td><td>2244</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - DISTANCE</td><td>Computer/Laptop</td><td>&nbsp;</td><td>4H_4H_4H_2</td><td>10_00_10_00_10_00_1_hour</td><td>120_00</td><td>2232</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - DISTANCE</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_3D_7D_3</td><td>&nbsp;</td><td>&nbsp;</td><td>2229</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - DISTANCE</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_3D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2248</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - DISTANCE</td><td>Hourly Reserves</td><td>&nbsp;</td><td>1H_2H_3H_3</td><td>0_01_0_25_0_50_1_hour</td><td>&nbsp;</td><td>2228</td></tr>
+ <tr><td>PIERCE</td><td>STUDENT - DISTANCE</td><td>Summit ILL</td><td>&nbsp;</td><td>6D_42</td><td>50_cent_per_day</td><td>20_00</td><td>2245</td></tr>
+ <tr><td>PIERCE</td><td>SUMMIT INSTITUTION</td><td>Book</td><td>&nbsp;</td><td>53_days</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2352</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>Cassette</td><td>&nbsp;</td><td>3D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2253</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>CD</td><td>&nbsp;</td><td>3D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2252</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_3D_7D_3</td><td>50_cent_per_day</td><td>10_00</td><td>1010</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>1D_3D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2233</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_3D_0</td><td>0_50_1_00_1_25_1_day</td><td>10_00</td><td>2192</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>Film</td><td>&nbsp;</td><td>1D_3D_7D_3</td><td>0_50_1_00_1_00_1_day</td><td>10_00</td><td>1011</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>ILL Material</td><td>&nbsp;</td><td>28_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2250</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>Music Cassette</td><td>&nbsp;</td><td>3D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2254</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>Music CD</td><td>&nbsp;</td><td>3D_7D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2251</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>1D_3D_7D_1</td><td>&nbsp;</td><td>&nbsp;</td><td>2234</td></tr>
+ <tr><td>PIERCE</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>25_cent_per_day</td><td>10_00</td><td>2225</td></tr>
+ <tr><td>SAGE</td><td>EDUCATOR</td><td>&nbsp;</td><td>&nbsp;</td><td>42_days_2_renew</td><td>0_00_0_00_0_00_1_day</td><td>&nbsp;</td><td>2430</td></tr>
+ <tr><td>SAGE</td><td>FULL PRIVILEGES</td><td>Audiobook CD</td><td>&nbsp;</td><td>21_days_2_renew</td><td>25_cent_per_day</td><td>5_00</td><td>1415</td></tr>
+ <tr><td>SAGE</td><td>ILL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2202</td></tr>
+ <tr><td>SAGE</td><td>OUTREACH SERVICE</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2203</td></tr>
+ <tr><td>SAGE</td><td>STAFF & FACULTY</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2201</td></tr>
+ <tr><td>SAGE</td><td>STUDENT - HIGH SCHOOL</td><td>&nbsp;</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2422</td></tr>
+ <tr><td>SAGE</td><td>STUDENT - HS SENIOR</td><td>&nbsp;</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2423</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>Audiobook Cassette</td><td>&nbsp;</td><td>14D_21D_21D_2</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1114</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>Bluray</td><td>&nbsp;</td><td>7_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2408</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>7_days_2_renew</td><td>20_cent_per_day</td><td>5_00</td><td>2199</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>1D_3D_7D_3</td><td>0_01_0_10_0_20_1_day</td><td>5_25</td><td>1013</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>ereader</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2388</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>Hourly Reserves</td><td>&nbsp;</td><td>1H_2H_3H_3</td><td>0_01_0_25_0_50_1_hour</td><td>10_00</td><td>1004</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>ILL Material</td><td>&nbsp;</td><td>28_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2400</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>Museum Passes</td><td>&nbsp;</td><td>1D_3D_3D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2355</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>Textbook</td><td>&nbsp;</td><td>7_days_1_renew</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2077</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>7_days_2_renew</td><td>20_cent_per_day</td><td>5_00</td><td>2200</td></tr>
+ <tr><td>SAGE</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>14D_21D_28D_2</td><td>20_cent_per_day</td><td>5_00</td><td>2198</td></tr>
+ <tr><td>SC-SCPS</td><td>STUDENT - HIGH SCHOOL</td><td>Periodical</td><td>&nbsp;</td><td>7_days_1_renew</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2178</td></tr>
+ <tr><td>SC-SCPS</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>7_days_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2295</td></tr>
+ <tr><td>SC-SCPS</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>7_days_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2296</td></tr>
+ <tr><td>SC-SCPS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2294</td></tr>
+ <tr><td>TVCC</td><td>STAFF & FACULTY</td><td>&nbsp;</td><td>&nbsp;</td><td>90D_90D_90D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2301</td></tr>
+ <tr><td>TVCC</td><td>STAFF & FACULTY</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2298</td></tr>
+ <tr><td>TVCC</td><td>STUDENT - ACADEMIC</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_1D_1D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2299</td></tr>
+ <tr><td>TVCC</td><td>STUDENT - DISTANCE</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_1D_1D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2300</td></tr>
+ <tr><td>TVCC</td><td>Users</td><td>Daily Reserves</td><td>&nbsp;</td><td>1D_1D_1D_2</td><td>0_50_1_00_1_25_1_day</td><td>5_00</td><td>1034</td></tr>
+ <tr><td>TVCC</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>3D_3D_3D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2302</td></tr>
+ <tr><td>TVCC</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>25_cent_per_day</td><td>5_00</td><td>2297</td></tr>
+ <tr><td>UM-ECP</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2410</td></tr>
+ <tr><td>UM-HPL</td><td>INSTITUTION</td><td>DVD</td><td>&nbsp;</td><td>7_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2310</td></tr>
+ <tr><td>UM-HPL</td><td>INSTITUTION</td><td>Periodical</td><td>&nbsp;</td><td>14_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2311</td></tr>
+ <tr><td>UM-HPL</td><td>INSTITUTION</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_2_renew</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2303</td></tr>
+ <tr><td>UM-HPL</td><td>Users</td><td>Book Club Kits</td><td>&nbsp;</td><td>42_days_0_renew</td><td>0_50_1_00_1_00_1_day</td><td>20_00</td><td>2314</td></tr>
+ <tr><td>UM-HPL</td><td>Users</td><td>Deposit Required</td><td>&nbsp;</td><td>7_days_2_renew</td><td>0_50_1_00_1_00_1_day</td><td>10_00</td><td>2386</td></tr>
+ <tr><td>UM-HPL</td><td>Users</td><td>Electronics</td><td>&nbsp;</td><td>3D_7D_7D_0</td><td>10_dollar_per_day</td><td>overdue_equip_max</td><td>2387</td></tr>
+ <tr><td>UM-HPL</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>3D_7D_7D_2</td><td>1_dollar_per_day</td><td>10_00</td><td>2315</td></tr>
+ <tr><td>UM-HPL</td><td>Users</td><td>Museum Passes</td><td>&nbsp;</td><td>1D_3D_3D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2316</td></tr>
+ <tr><td>UM-HPL</td><td>Users</td><td>New/High Demand</td><td>&nbsp;</td><td>7D_14D_21D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2354</td></tr>
+ <tr><td>UM-HPL</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>7_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2317</td></tr>
+ <tr><td>UM-MF</td><td>Users</td><td>Computer/Laptop</td><td>&nbsp;</td><td>1_hour_2_renew</td><td>20_cent_per_hour</td><td>&nbsp;</td><td>2318</td></tr>
+ <tr><td>UM-MF</td><td>Users</td><td>New/High Demand</td><td>&nbsp;</td><td>7_days_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2319</td></tr>
+ <tr><td>UM-PEN</td><td>FULL PRIVILEGES</td><td>Music Cassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>20_cent_per_day</td><td>5_00</td><td>1420</td></tr>
+ <tr><td>UM-PEN</td><td>Users</td><td>Book</td><td>&nbsp;</td><td>7D_21D_28D_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2358</td></tr>
+ <tr><td>UM-PEN</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>7_days_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2320</td></tr>
+ <tr><td>UM-PEN</td><td>Users</td><td>Kit</td><td>&nbsp;</td><td>7D_21D_28D_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2403</td></tr>
+ <tr><td>UM-PEN</td><td>Users</td><td>Museum Passes</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2359</td></tr>
+ <tr><td>UM-SPL</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>7_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2404</td></tr>
+ <tr><td>UM-SPL</td><td>Users</td><td>Museum Passes</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2385</td></tr>
+ <tr><td>UM-UPL</td><td>INSTITUTION</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2374</td></tr>
+ <tr><td>UM-UPL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>20_cent_per_day_3dygrace</td><td>5_00</td><td>2380</td></tr>
+ <tr><td>UN-CS</td><td>STUDENT - ELEMENTARY SCHOOL</td><td>&nbsp;</td><td>&nbsp;</td><td>7D_7D_7D_3</td><td>&nbsp;</td><td>&nbsp;</td><td>2324</td></tr>
+ <tr><td>UN-CS</td><td>STUDENT - HIGH SCHOOL</td><td>&nbsp;</td><td>&nbsp;</td><td>14D_14D_14D_3</td><td>&nbsp;</td><td>&nbsp;</td><td>2325</td></tr>
+ <tr><td>UN-CS</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2323</td></tr>
+ <tr><td>UN-ELP</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>5_00</td><td>2399</td></tr>
+ <tr><td>UN-LPL</td><td>EDUCATOR</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_2_renew</td><td>10_cent_per_day</td><td>&nbsp;</td><td>2356</td></tr>
+ <tr><td>UN-LPL</td><td>Users</td><td>DVD Box Set</td><td>&nbsp;</td><td>7_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2418</td></tr>
+ <tr><td>UN-LPL</td><td>Users</td><td>New/High Demand</td><td>&nbsp;</td><td>7_days_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2322</td></tr>
+ <tr><td>UN-LPL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10_cent_per_day</td><td>5_00</td><td>2321</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>7_days_2_renew</td><td>05_cent_per_day</td><td>&nbsp;</td><td>2329</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>Equipment</td><td>&nbsp;</td><td>1D_1D_3D_0</td><td>&nbsp;</td><td>&nbsp;</td><td>2379</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>Hourly Reserves</td><td>&nbsp;</td><td>1H_2H_3H_3</td><td>20_cent_per_hour</td><td>&nbsp;</td><td>2393</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>ILL Material</td><td>&nbsp;</td><td>28_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2360</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>Museum Passes</td><td>&nbsp;</td><td>7_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2382</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>New/High Demand</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2327</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2328</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>Playaway</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2377</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>7_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2330</td></tr>
+ <tr><td>WC-DALLES</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>21_days_2_renew</td><td>05_cent_per_day</td><td>1_00</td><td>2326</td></tr>
+ <tr><td>WC-DUFUR</td><td>STAFF & FACULTY</td><td>Book</td><td>&nbsp;</td><td>28_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2334</td></tr>
+ <tr><td>WC-DUFUR</td><td>STUDENT - HIGH SCHOOL</td><td>&nbsp;</td><td>&nbsp;</td><td>14_day_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2332</td></tr>
+ <tr><td>WC-DUFUR</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>14_day_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2136</td></tr>
+ <tr><td>WC-DUFUR</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>14_day_1_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2333</td></tr>
+ <tr><td>WC-DUFUR</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2331</td></tr>
+ <tr><td>WC-ENT</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21D_21D_21D_2</td><td>&nbsp;</td><td>&nbsp;</td><td>2365</td></tr>
+ <tr><td>WC-ENT</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2366</td></tr>
+ <tr><td>WC-ENT</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2361</td></tr>
+ <tr><td>WC-JPL</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2367</td></tr>
+ <tr><td>WC-JPL</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2368</td></tr>
+ <tr><td>WC-JPL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2362</td></tr>
+ <tr><td>WC-JSY</td><td>Users</td><td>Book</td><td>&nbsp;</td><td>21_days_2_renew</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>1389</td></tr>
+ <tr><td>WC-PLANE</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>7D_21D_28D_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2383</td></tr>
+ <tr><td>WC-PLANE</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>7D_21D_28D_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2384</td></tr>
+ <tr><td>WC-PLANE</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2394</td></tr>
+ <tr><td>WC-SWCL</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>14_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2336</td></tr>
+ <tr><td>WC-SWCL</td><td>Users</td><td>New/High Demand</td><td>&nbsp;</td><td>14_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2337</td></tr>
+ <tr><td>WC-SWCL</td><td>Users</td><td>Periodical</td><td>&nbsp;</td><td>14_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2339</td></tr>
+ <tr><td>WC-SWCL</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>14_days_0_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2338</td></tr>
+ <tr><td>WC-SWCL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>28_days_2_renew</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2335</td></tr>
+ <tr><td>WC-WAL</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2371</td></tr>
+ <tr><td>WC-WAL</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2372</td></tr>
+ <tr><td>WC-WAL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2364</td></tr>
+ <tr><td>WC-WCL</td><td>Users</td><td>DVD</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2369</td></tr>
+ <tr><td>WC-WCL</td><td>Users</td><td>Videocassette</td><td>&nbsp;</td><td>21_days_2_renew</td><td>&nbsp;</td><td>&nbsp;</td><td>2370</td></tr>
+ <tr><td>WC-WCL</td><td>Users</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0_00_0_00_0_00_1_day</td><td>0_00</td><td>2363</td></tr>
+</table>
 

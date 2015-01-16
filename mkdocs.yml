@@ -10,6 +10,7 @@ pages:
 - ['administration.md', 'Core Modules','Administration']
 - ['cat_materials_migrated.md', 'Migrated Materials', 'Cataloging Materials - Sage Wiki']
 - ['contact_info.md', 'Miscellaneous', 'Library Contact Information']
+- ['circ_hold_policies.md', 'Miscellaneous', 'Backend Configurations']
 - ['contribute.md', 'Miscellaneous', 'Contributions: How-To']
 
 markdown_extensions: [admonition]
