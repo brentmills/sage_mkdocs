@@ -168,7 +168,7 @@
  <tr><td>Union Carnegie Public Library</td><td>541-562-5811</td><td>library@cityofunion.com</td></tr>
  <tr><td>Vale Emma Humphrey Library</td><td>541-473-3902</td><td>ValePublicLibrary@yahoo.com</td></tr>
  <tr><td>Vale High School Library</td><td>541-473-3181</td><td>jkoda@vale.k12.or.us</td></tr>
- <tr><td>Wallowa County Library</td><td>541-426-3969</td><td>&nbsp;</td></tr>
+ <tr><td>Wallowa County Library</td><td>541-426-3969</td><td>wclib@eoni.com</td></tr>
  <tr><td>Wallowa Public Library</td><td>541-886-4265</td><td>wallowapubliclibrary@gmail.com</td></tr>
  <tr><td>Weston Public Library</td><td>541-566-2378</td><td>wcolibrary@qwestoffice.net</td></tr>
 </table>
