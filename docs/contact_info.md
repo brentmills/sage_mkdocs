@@ -68,7 +68,7 @@
  <tr><td>Klamath Community College</td><td>&nbsp;</td><td>Kristy Layne</td><td>7390 South 6th St.</td><td>Klamath Falls</td><td>OR</td><td>97603</td></tr>
  <tr><td>La Grande Public Library</td><td>&nbsp;</td><td>Terri Washburn</td><td>2006 4th Street</td><td>La Grande</td><td>OR</td><td>97850</td></tr>
  <tr><td>McLoughlin High School Library</td><td>&nbsp;</td><td>Susie Hardy</td><td>120 S Main St</td><td>Milton-Freewater</td><td>OR</td><td>97862</td></tr>
- <tr><td>Milton-Freewater Public Library</td><td>&nbsp;</td><td>Bob Jones</td><td>8 SW 8th Ave</td><td>Milton-Freewater</td><td>OR</td><td>97862</td></tr>
+ <tr><td>Milton-Freewater Public Library</td><td>&nbsp;</td><td>Erin Wells</td><td>8 SW 8th Ave</td><td>Milton-Freewater</td><td>OR</td><td>97862</td></tr>
  <tr><td>North Powder City Library</td><td>&nbsp;</td><td>Nancy Free-Klein</td><td>PO Box 294</td><td>North Powder</td><td>OR</td><td>97867</td></tr>
  <tr><td>Nyssa Public Library</td><td>&nbsp;</td><td>Faith Adams</td><td>319 Main St</td><td>Nyssa</td><td>OR</td><td>97913</td></tr>
  <tr><td>Ontario Community Library</td><td>&nbsp;</td><td>Darlyne Johnson</td><td>388 SW 2nd Ave</td><td>Ontario</td><td>OR</td><td>97914</td></tr>
@@ -139,7 +139,7 @@
  <tr><td>Helix Public Library</td><td>541-457-6130</td><td>helixlibrary@helixtel.com</td></tr>
  <tr><td>Hermiston High School Library</td><td>541-667-6144</td><td>nicholsj@hermiston.k12.or.us</td></tr>
  <tr><td>Hermiston Public Library</td><td>541-567-2882</td><td>mbaldo@hermiston.or.us</td></tr>
- <tr><td>Hood River Valley High School</td><td>541-386-4500</td><td>kori.walsh@hoodriver.k12.or.us, ann.zuehlke@hoodriver.k12.or.us, amy.wheeler@hoodriver.k12.or.us</td></tr>
+ <tr><td>Hood River Valley High School</td><td>541-386-4500</td><td>ann.zuehlke@hoodriver.k12.or.us, amy.wheeler@hoodriver.k12.or.us</td></tr>
  <tr><td>Huntington Schools Library</td><td>541-869-2204</td><td>imathews@malesd.k12.or.us</td></tr>
  <tr><td>Ione High School Library</td><td>541-422-7131</td><td>Cathy.Halvorsen@ione.k12.or.us</td></tr>
  <tr><td>Joseph Library</td><td>541-426-3623</td><td>rich@fishtrap.org</td></tr>
@@ -156,7 +156,7 @@
  <tr><td>Pendleton High School Library</td><td>541-966-3847</td><td>D-Ann.Pahl@pendleton.k12.or.us</td></tr>
  <tr><td>Pendleton Public Library</td><td>541-966-0380</td><td>Kathy.Davis@ci.pendleton.or.us</td></tr>
  <tr><td>Pilot Rock Public Library</td><td>541-443-3285</td><td>pilotrockpl@centurytel.net</td></tr>
- <tr><td>Planetree Health Resource Center</td><td>541-296-8444</td><td>&nbsp;</td></tr>
+ <tr><td>Planetree Health Resource Center</td><td>541-296-8444</td><td>library@mcmc.net</td></tr>
  <tr><td>Sherman County Public/School Library</td><td>541-565-3279</td><td>amelzer@sherman.k12.or.us, jmcarthur@sherman.k12.or.us</td></tr>
  <tr><td>Stanfield Public Library</td><td>541-449-1254</td><td>stanfieldpubliclibrary001@hotmail.com</td></tr>
  <tr><td>Stanfield Secondary School Library</td><td>541-449-3851</td><td>penny@stanfield.k12.or.us</td></tr>
@@ -169,7 +169,7 @@
  <tr><td>Vale Emma Humphrey Library</td><td>541-473-3902</td><td>ValePublicLibrary@yahoo.com</td></tr>
  <tr><td>Vale High School Library</td><td>541-473-3181</td><td>jkoda@vale.k12.or.us</td></tr>
  <tr><td>Wallowa County Library</td><td>541-426-3969</td><td>&nbsp;</td></tr>
- <tr><td>Wallowa Public Library</td><td>541-886-4265</td><td>&nbsp;</td></tr>
+ <tr><td>Wallowa Public Library</td><td>541-886-4265</td><td>wallowapubliclibrary@gmail.com</td></tr>
  <tr><td>Weston Public Library</td><td>541-566-2378</td><td>wcolibrary@qwestoffice.net</td></tr>
 </table>
 
