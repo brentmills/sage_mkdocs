@@ -26,7 +26,7 @@ This Documentation repository is built with [Markdown](http://daringfireball.net
 </br>
 </br>
   <a class="btn btn-primary btn-md" href="http://irc.lc/foonetic/sagelibraries">Sage Chat Room</a>
-  <a class="btn btn-primary btn-md" href="http://sagelib.org/>">(New)Sage Commons Site</a>
+  <a class="btn btn-primary btn-md" href="http://sagelib.org/">(New)Sage Commons Site</a>
 </p>
 </div>
 </br>
