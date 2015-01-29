@@ -19,7 +19,7 @@
 
 <b>Required & Recommended MARC Fields For Records within Sage</b>
 
-* [Required Fields for Serial Recordd](#catm_required_fields_serial)
+* [Required Fields for Serial Record](#catm_required_fields_serial)
 * [Required Fields for Books](#catm_required_fields_book)
 * [Required Fields for Sound Recordings](#catm_required_fields_sound_rec)
 * [Recommended Fields for Serials](#catm_serial_standards)

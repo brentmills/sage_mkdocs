@@ -13,5 +13,8 @@ pages:
 - ['circ_hold_policies.md', 'Miscellaneous', 'Backend Configurations']
 - ['contribute.md', 'Miscellaneous', 'Contributions (How-To)']
 
-markdown_extensions: [admonition]
+markdown_extensions: [admonition,smartypants]
+
+extra_javascript: [external_links.js]
+
 theme: readthedocs
