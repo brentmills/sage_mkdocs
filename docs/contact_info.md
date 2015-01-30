@@ -329,17 +329,15 @@
  <tr><td>Weston Public Library</td><td>&nbsp;</td><td>See: http://www.westonpubliclibrary.com/library-hours/</td></tr>
 </table>
 
-<br>
+</br>
 
 #Sage Cataloging Contacts
 <hr size=2>
+[revision 09/2014 L.O'Connor]
+</br>
 
-</style><table class="tableizer-table">
-<tr class="tableizer-firstrow"><th></th><th>&nbsp;</th><th>&nbsp;</th><th>Cataloging Contacts on SAGE</th><th>&nbsp;</th><th>&nbsp;</th></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>[revision 09/2014 L.O'Connor]</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Library</td><td>OCLC CODE</td><td>SAGE CODE</td><td>Cataloging Staff Contact</td><td>Email</td><td>Phone</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<table class="tableizer-table">
+<tr class="tableizer-firstrow"><tr><th>Library</th><th>OCLC Code</th><th>SAGE Code</th><th>Cataloging Staff Contact</th><th>Email</th><th>Phone</th></tr>
  <tr><td>Adams Public Library</td><td>OPB</td><td>&nbsp;</td><td>Dea Nowell [see UCSLD]</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Arlington Public Library</td><td>&nbsp;</td><td>arpl</td><td>Mary Mitchell</td><td>aplib97812@centurylink.net</td><td>541-454-2444</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Billie VanArsdale</td><td>aplib97812@centurylink.net</td><td>541-454-2444</td></tr>
@@ -425,3 +423,4 @@
  <tr><td>Weston Public Library</td><td>OWN</td><td>&nbsp;</td><td>Dea Nowell [see UCSLD]</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Sage System Manager</td><td>&nbsp;</td><td>&nbsp;</td><td>Beth Longwell</td><td>blongwel@eou.edu</td><td>541-962-3867</td></tr>
 </table>
+</style>

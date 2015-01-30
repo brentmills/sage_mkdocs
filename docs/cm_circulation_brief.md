@@ -7,8 +7,7 @@ When we talk about the "Circulation" portion of Evergreen, we are talking primar
 
 When you go to the "Circulation" section in the top menu of Evergreen, this is what you're looking at:
 
-![](images/cm_circulation_menu.png)
-
+<center>![Circulation Menu](images/cm_circulation_menu.png)</center>
 
 ## Check Out Items
 
@@ -16,8 +15,7 @@ This brings you to the checkout screen where you enter/scan the patron's barcode
 
 ![](images/cm_checking_out_items.png)
 
-Check In Items
---------------
+##Check In Items
 
 This is the interface where you check in holdings within Evergreen.
 
@@ -46,89 +44,74 @@ This is the interface where you check in holdings within Evergreen.
 - *Abort Transit*: If you have checked in an item that is getting routed incorrectly for a hold or other purpose. This will cancel the transit to that other library. You will still need to cancel the hold, if that was the reason, however.
 - *Print Spine Label*: See Cataloging
 - *Save Columns*: Allows you to save the adjustments to the on screen information settings and make them the default for your workstation. These adjustments are made through the column picker:
-		
-Renew Items
------------
+
+##Renew Items
 
 Similar to the "Check In Items" screen, only tailored for renewing batches of items. This is useful if a patron, or staff member needs items renewed for an amount of time with a specific due date.
 
-Register Patron
----------------
+##Register Patron
 
 When you wish to add a new patron to the Sage Library System. Make sure that you have checked that the patron is not already in the system (no duplicate patron accounts) or they have simply gone inactive. Search for the patron with "Include inactive patrons?" checked and "Limit results to patrons in" to: Sage Library System.
 
-Pending Patrons
----------------
+##Pending Patrons
 
 Not Used in Sage.
 
-Retrieve Last Patron
---------------------
+##Retrieve Last Patron
+
 
 Were you editing/checking out items to a patron and accidentally closed their tab? Select this option to bring back the last active patron tab within Evergreen.
 
-Capture Holds
--------------
+##Capture Holds
 
 While you can use this option, most libraries choose to use the general purpose "Check In" screen to process holds. This allows you to process items, say, from a book drop where not all of them are going to be holds. Some are simply getting put back onto the shelf.
 
-Pull List for Hold Requests
----------------------------
+##Pull List for Hold Requests
 
 Allows you to see what books other libraries are requesting you to put in transit for a hold or other reason within Sage.
 
-Browse Holds Shelf
-------------------
+##Browse Holds Shelf
 
 This allows you to see what titles are marked as being on your Hold Shelf.
 
-Clear Holds Shelf
------------------
+##Clear Holds Shelf
 
 An interface to clear holds that have expired off of your hold shelf. You would make sure that the Pickup Library is set to your library, check "View Cearable Holds" and then look at the length of time the holds have been on the shelf. If it has been longer than it should, or the hold needs to be put back into circulation, select one/multiple items and then Select "Clear These Holds" -- this will cancel the hold and send an email (if configured) to the patron whose hold was cancelled
->You still need to check the item back in to reset its status from "On Holds Shelf" and trigger any transits.
 
-Place Hold
-----------
+`You still need to check the item back in to reset its status from "On Holds Shelf" and trigger any transits.`
+
+##Place Hold
 
 Has the same effect as "New Search of the Catalog".
 
-Show Item Status by Barcode
----------------------------
+##Show Item Status by Barcode
 
 This brings you to the "Item Status" screen as well. Here you can check an item's condition/information/transit hold info.
 
-Retrieve Patron by Barcode
---------------------------
+##Retrieve Patron by Barcode
 
 This is the same as clicking the "Check Out" button.
 
-Verify Credentials
-------------------
+##Verify Credentials
 
 If a patron is unsure of their password, but wants to check with you, you can use this option to enter their user name/barcode or a combination along with their assumed password. You will get a green "Succces testing credentials" return if the password for the account is correct.
 
-Replace Barcode
----------------
+##Replace Barcode
 
 This is more of a cataloger option. Replaces the barcode on an item.
 
-Record In-House Use
--------------------
+##Record In-House Use
 
 If you have laptops, reference books, or other items that you don't circulate, but would like to record as a statistic, use this interface. These statistics are kept seperate from the general circulation statistics for an item.
 
-Scan Item as Missing Pieces
----------------------------
+##Scan Item as Missing Pieces
 
 Will mark an Item as damaged and prompt you to write a note for the missing pieces. When checked the pieces are returned, check the item back in to clear the alerts and make sure the correct pieces have been added to the item.
 
-Re-print Last
--------------
+##Re-print Last
 
 Will reprint the last notice Evergreen produced
 
-Enter Offline Interface
------------------------
+##Enter Offline Interface
 
 This allows you to check in items and register patrons when connectivity to the Internet/Evergreen has been interrupted.
