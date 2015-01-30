@@ -48,15 +48,36 @@ Choosing the "Display Item" option simply brings up the versitile "Item Status" 
 
 Copy Buckets can be very useful when editing a large collection of barcoded items that you can't do in one session. Or, if you'd like to share your batch of "to be edited" items with another staff member.
 
-When you first choose this option, you will need to create a bucket for yourself by selecting "New Bucket". This interface is great for doing batch requests on items, batch edits on attributes (Shelving Location, Copy Status, Price)
+When you first choose this option, you will need to create a bucket for yourself by selecting "New Bucket". This interface is great for doing batch requests on items, batch edits on attributes (Shelving Location, Copy Status, Price).
 ##Manage Record Buckets
+
 ![Rec Buckets 1](/images/cat_recordbuckets1.png)
 
-![Rec Buckets 2](/images/cat_recordbuckets1.png)
+When you first select this option you'll be placed into the "Bucket View" tab. If you haven't created a bucket previously, you'll need to create one by clicking on "Bucket Actions > Create New Bucket". You'll then see your bucket title appear next to a Bucket #. Write this number down, as it how other users can view or update your bucket from other workstations. If you have a group of Records you'd like me, Beth or David to look at, placing them in a Record/Copy Bucket and sharing the number with us is an easy way.
 
-![Rec Buckets 3](/images/cat_recordbuckets1.png)
+![Rec Buckets 2](/images/cat_recordbuckets2.png)
 
-![Rec Buckets 4](/images/cat_recordbuckets1.png)
+You will then go to the record query tab to search for records to load into the staging "Pending Records" tab. Note: you are loading records, not items. So there won't be any barcodes listed. TCN and Database ID numbers are the ones you should be concerned with here. You can query Evergreen by searching for a term/title and then, when you find the correct one, highlight it and click "Add Selected to Pending Records". You can do this with multiple items as well. It will then move those records into the staging tab: "Pending Records". I would advise against clicking "Add All to Pending Records". This will load ALL your search results into the "Pending Records" screen. There is not an easy way to delete records from the "Pending Records" screen, so use cautiously.
+
+![Rec Buckets 3](/images/cat_recordbuckets3.png)
+
+Now you can move over to the "Pending Records" tab. Here you can select which items of those you found are really the ones you want to put into your Record bucket. Select which records you'd like and then click "Add Selected to current Bucket".
+
+![Rec Buckets 4](/images/cat_recordbuckets4.png)
+
+In the "Bucket View" you can finally manipulate the records how you would like. Either by:
+
+- <b>Show All in Catalog:</b> This will bring up all the records in the OPAC style view for you to examine.
+
+- <b>Transfer Title Holds:</b> Be careful with this option. You will basically move the holds that are on one title to another title. Useful if you have patrons selecting holds on the Audio Cassette version of Harry Potter's latest when they meant to choose the Book record instead. Better to use this on a case-by-case basic than in one massive update.
+
+- <b>Delete All Records:</b> Be careful with this one as well. I think you know why
+
+- <b>Merge All Records:</b> If there are many different versions of the same record floating around, you can consolidate them with this option. Be careful with this as well.
+
+- <b>Marc Batch Edit:</b> Opens up the MARC Batch Edit function.
+
+- <b>Export All Records:</b> Allows you to export the bibliographic records to MARC21, USMARC, XML or Evergreen's BRE (Bibliographic Record Entry) format.
 
 ##Create New MARC Record
 ![Create MARC 1](/images/cat_create_marc1.png)
