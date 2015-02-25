@@ -17,7 +17,7 @@
 	* Saving locally, modifying 
 	* Exporting/Importing
 * Batch Update Items
-	* [Item Status Screen](http://docs.evergreen-ils.org/2.5/itemstatus.html target{:target="_blank"})
+	* [Item Status Screen](http://docs.evergreen-ils.org/2.5/itemstatus.html)
 	* [Copy/Record Buckets (2.1 still relevent)](http://docs.evergreen-ils.org/2.1/html/buckets.html)
 * Transfer Holdings to a New Record
 * Deleting Holdings

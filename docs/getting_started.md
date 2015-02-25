@@ -97,3 +97,4 @@ You are now set up to do work connected to that library. Check the workstation n
 
 - Configuring Receipt Templates
 - Configuring Receipt Printers
+- [Cheat Sheet For Sage Evergreen](http://sagelibraries.wikispaces.com/file/detail/Sage_Evergreen_Cheat_Sheet.pdf)
