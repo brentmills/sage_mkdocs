@@ -108,10 +108,10 @@
  <tr><td>Cascade Locks Library</td><td>541-374-9317</td><td>info@hoodriverlibrary.org</td></tr>
  <tr><td>Hood River Library</td><td>541-386-2535</td><td>info@hoodriverlibrary.org</td></tr>
  <tr><td>Parkdale Library</td><td>541-352-6502</td><td>info@hoodriverlibrary.org</td></tr>
- <tr><td>Christmas Valley Branch Library</td><td>541-576-2336</td><td>library@co.lake.or.us</td></tr>
- <tr><td>Lake County Library Main Library Lakeview</td><td>541-947-6019</td><td>library@co.lake.or.us</td></tr>
- <tr><td>Paisley Branch Library</td><td>541-943-3911</td><td>paisleylib1@hotmail.com</td></tr>
- <tr><td>Silver Lake Branch Library</td><td>541-576-2146</td><td>library@co.lake.or.us</td></tr>
+ <tr><td>Christmas Valley Branch Library</td><td>541-576-2336</td><td>info@lakecountylibrary.org</td></tr>
+ <tr><td>Lake County Library Main Library Lakeview</td><td>541-947-6019</td><td>info@lakecountylibrary.org</td></tr>
+ <tr><td>Paisley Branch Library</td><td>541-943-3911</td><td>info@lakecountylibrary.org</td></tr>
+ <tr><td>Silver Lake Branch Library</td><td>541-576-2146</td><td>info@lakecountylibrary.org</td></tr>
  <tr><td>Oregon Trail Library Dist.- Heppner</td><td>541-676-9964</td><td>Library Director: otlddirector@centurylink.net; Staff: otldhepp@hotmail.com</td></tr>
  <tr><td>Oregon Trail Library Dist.- Irrigon</td><td>541-571-0482</td><td>Library Director: otlddirector@centurylink.net; Staff: otldirrigon@hotmail.com</td></tr>
  <tr><td>Oregon Trail Library Dist.-Boardman</td><td>541-481-2665</td><td>Library Director: otlddirector@centurylink.net; Staff: otldbdmn5@centurylink.net</td></tr>
@@ -380,7 +380,7 @@
  <tr><td>La Grande Middle School Library</td><td>&nbsp;</td><td>xlgm</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>La Grande Public Library</td><td>LGRND</td><td>&nbsp;</td><td>Ryan McGinnis</td><td>rmcginnis@cityoflagrande.org</td><td>541-962-1339</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Carrie Phillips</td><td>cphillips@eoni.com</td><td>541-962-1339</td></tr>
- <tr><td>Lake County Library</td><td>&nbsp;</td><td>lcl</td><td>Godelieve Guyttenhove</td><td>guyttenhove@co.lake.or.us</td><td>541-947-6019</td></tr>
+ <tr><td>Lake County Library</td><td>&nbsp;</td><td>lcl</td><td>Godelieve Guyttenhove</td><td>guyttenhove@yahoo.com</td><td>541-947-6019</td></tr>
  <tr><td>McLoughlin High School Library</td><td>&nbsp;</td><td>qmchs</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Milton-Freewater Public Library</td><td>MFW</td><td>&nbsp;</td><td>Alex Stockdale</td><td>alex.stockdale@milton-freewater-or.gov</td><td>541-938-8249</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Sandy Nelson</td><td>sandy.nelson@milton-freewater-or.gov</td><td>541-938-8251</td></tr>
