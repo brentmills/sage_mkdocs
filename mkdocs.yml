@@ -1,22 +1,22 @@
 site_name: Sage Documentation Site
 pages:
 - ['index.md', 'Home']
-- ['getting_started.md', 'Overview', 'Getting Started']
-- ['cm_circulation_brief.md', 'Overview', 'Circulation Overview']
-- ['catm_cataloging_brief.md', 'Overview', 'Cataloging Overview']
-- ['circulation_module.md', 'Core Modules', 'Circulation']
-- ['cataloging_module.md', 'Core Modules', 'Cataloging']
-- ['opac.md', 'Core Modules', 'OPAC']
-- ['administration.md', 'Core Modules','Administration']
-- ['cat_materials_migrated.md', 'Migrated Materials', 'Cataloging Materials - Sage Wiki']
-- ['contact_info.md', 'Miscellaneous', 'Library Contact Information']
-- ['downloads.md', 'Miscellaneous', 'Downloadable Documentation']
-- ['courier.md', 'Miscellaneous', 'Courier Information']
-- ['circ_hold_policies.md', 'Miscellaneous', 'Backend Configurations']
-- ['contribute.md', 'Miscellaneous', 'Contributions (How-To)']
 
-markdown_extensions: [admonition,smartypants]
+- ['overview/getting_started.md', 'Overview', 'Getting Started']
+- ['overview/cm_circulation_brief.md', 'Overview', 'Circulation Overview']
+- ['overview/catm_cataloging_brief.md', 'Overview', 'Cataloging Overview']
+
+- ['core-modules/circulation_module.md', 'Core Modules', 'Circulation']
+- ['core-modules/cataloging_module.md', 'Core Modules', 'Cataloging']
+- ['core-modules/opac.md', 'Core Modules', 'OPAC']
+- ['core-modules/administration.md', 'Core Modules','Administration']
+
+- ['misc/contact_info.md', 'Miscellaneous', 'Library Contact Information']
+- ['misc/downloads.md', 'Miscellaneous', 'Downloadable Documentation']
+- ['misc/courier.md', 'Miscellaneous', 'Courier Information']
+- ['misc/circ_hold_policies.md', 'Miscellaneous', 'Backend Configurations']
+- ['misc/contribute.md', 'Miscellaneous', 'Contributions (How-To)']
 
 extra_javascript: [external_links.js]
 
-theme: readthedocs
+theme: 'readthedocs'

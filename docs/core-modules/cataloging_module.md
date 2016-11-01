@@ -4,12 +4,12 @@
 <hr size=2>
 
 ## Searching the OPAC/Catalog
-* [Advanced Search / Numeric Search / MARC Expert Search](http://docs.evergreen-ils.org/2.5/_advanced_search.html)
+* [Advanced Search / Numeric Search / MARC Expert Search](http://docs.evergreen-ils.org/2.9/_advanced_search.html)
 * [Z39.50 Search](http://docs.sitka.bclibraries.ca/Sitka/current/html/MARC_Z39.50.html)
 
 ## Adding Holdings to Existing Sage Records
 * [Adding Items to bibliographic records (older but relevant)](http://docs.evergreen-ils.org/2.1/html/adding_holdings.html)
-* [Adding holdings for non-physical/electronic resources](http://docs.evergreen-ils.org/2.5/_cataloging_electronic_resources_8201_8212_8201_finding_them_in_catalog_searches.html)
+* [Adding holdings for non-physical/electronic resources](http://docs.evergreen-ils.org/2.9/_cataloging_electronic_resources_8201_8212_8201_finding_them_in_catalog_searches.html)
 
 ## Editing/Maintaining Sage Holdings
 * Copy Editor/Edit Item Attributes/Item Status(link from Circ)
@@ -17,21 +17,21 @@
 	* Saving locally, modifying 
 	* Exporting/Importing
 * Batch Update Items
-	* [Item Status Screen](http://docs.evergreen-ils.org/2.5/itemstatus.html)
+	* [Item Status Screen](http://docs.evergreen-ils.org/2.9/itemstatus.html)
 	* [Copy/Record Buckets (2.1 still relevent)](http://docs.evergreen-ils.org/2.1/html/buckets.html)
 * Transfer Holdings to a New Record
 * Deleting Holdings
 	* Records
 	* Volumes
 	* Copy/Item Level
-* [Replacing Barcodes](http://docs.evergreen-ils.org/2.5/_lost_library_cards.html)
+* [Replacing Barcodes](http://docs.evergreen-ils.org/2.9/_lost_library_cards.html)
 * [Adding Bibliographic Records to Sage]()
 	* Necessary Permission Levels
 		- For original cataloging you need a <b>CAT1</b> login.
 		- For Z39.50 / "match & attach" cataloging you need a <b>CAT2</b> login.
 		- For adding items to existing records you need a <b>CAT3</b> login.
 	* [MARC imports via Z39.50](http://docs.sitka.bclibraries.ca/Sitka/current/html/MARC_Z39.50.html)
-	* [MARC Batch Import/Export](http://docs.evergreen-ils.org/2.5/_batch_importing_marc_records.html) [and this as well](http://docs.evergreen-ils.org/2.5/_importing_materials_in_the_staff_client.html#_staff_client_batch_record_imports)
+	* [MARC Batch Import/Export](http://docs.evergreen-ils.org/2.9/_batch_importing_marc_records.html) [and this as well](http://docs.evergreen-ils.org/2.9/_importing_materials_in_the_staff_client.html#_staff_client_batch_record_imports)
 	* Sage’s Minimum MARC record
 	* Creating New MARC records (original cataloging)
 	* Cataloging Non-Physical Items (link)
@@ -39,12 +39,12 @@
 	* Editing Overview
 	* OPAC Icons/Facet Search Fields (999 fields)
 	* Deleting MARC Records
-* [Setting Item Alerts (upon checkin)](http://docs.evergreen-ils.org/2.5/itemstatus.html#_item_alerts)
+* [Setting Item Alerts (upon checkin)](http://docs.evergreen-ils.org/2.9/itemstatus.html#_item_alerts)
 * [Copy and Record Buckets (older, but relevant)](http://docs.evergreen-ils.org/2.1/html/buckets.html)
 * Merging Bib Records in Evergreen
-* [Serials](http://docs.evergreen-ils.org/2.5/_serials_2.html)
+* [Serials](http://docs.evergreen-ils.org/2.9/_serials_2.html)
 	
-## Materials Migrated From Sage Wiki
+## Cataloging Additional Materials
 * [Electronic Resources 856](/cat_materials_migrated/#catm_856)
 * [999 Values for Sage](/cat_materials_migrated/#catm_999)
 * [Cataloging and Advanced Reader Copy](/cat_materials_migrated/#catm_arc)

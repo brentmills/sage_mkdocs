@@ -1,6 +1,7 @@
 <center>
 ![](images/Sage_Library_Leaves_TextRight.png)
-# Documentation Site
+
+Documentation Site
 </center>
 <hr size=2>
 
@@ -8,8 +9,8 @@ Welcome to the Sage Evergreen Documentation Site. Evergreen is an Open Source In
 
 <center>
 <div style="background-color: #c9c9c9; padding: 10px; width: 50%; border-style: solid; border-width: 1px">
-Current version of production: <b>2.5.1</b></br>
-Current version of test server: <b>2.7.3</b>
+Current version of production: <b>2.9.1</b></br>
+Current version of test server: <b>2.11.0 beta</b>
 </div>
 </center>
 
@@ -17,7 +18,6 @@ Sage Staff include:
 
 - Systems Manager - Beth Longwell <blongwel@eou.edu>
 - Systems Librarian - Brent Mills <brent@hoodriverlibrary.org>
-- Cataloging Specialist - David Sale <sageact@bakerlib.org>
 
 Feel free to contact Beth or Brent in regards to general Evergreen issues (connectivity/troubleshooting/functionality). David is available for cataloging related questions for the Evergreen installation and other, broader cataloging related questions.
 
@@ -27,13 +27,9 @@ This Documentation repository is built with [Markdown](http://daringfireball.net
 <div style="background-color: #c9c9c9; padding: 10px; width: 100%; border-style: solid; border-width: 0px">
 <h2>Other Sage Resources</h2>
 <p>
-  <a class="btn btn-primary btn-md" href="http://sagelibraries.wikispaces.com/">Sage Wiki</a>
-  <a class="btn btn-primary btn-md" href="http://sageonevergreen.wordpress.com">Sage Blog</a>
-  <a class="btn btn-primary btn-md" href="http://sagesupport.eou.edu">Sage Help Desk</a>
-</br>
-</br>
-  <a class="btn btn-primary btn-md" href="http://irc.lc/foonetic/sagelibraries">Sage Chat Room</a>
-  <a class="btn btn-primary btn-md" href="http://sagelib.org/">(New)Sage Commons Site</a>
+  <a class="btn btn-primary btn-md" href="http://sagelib.org/support">Sage Help Desk</a>
+  <a class="btn btn-primary btn-md" href="http://sagelib.org/chat">Sage Chat Room</a>
+  <a class="btn btn-primary btn-md" href="http://sagelib.org/">Sagelib.org</a>
 </p>
 </div>
 </br>
@@ -51,18 +47,8 @@ This Documentation repository is built with [Markdown](http://daringfireball.net
 	    <th class="tg-cazm">Current for Evergreen Version</th>
 	  </tr>
 	  <tr>
-	    <td class="tg-klnp">2.5.1</td>
+	    <td class="tg-klnp">2.9.1</td>
 	  </tr>
 	</table>
 </div>
 </br>
-<!--
-<div class="jumbotron">
-	<center>
-  <h2>Other Sage Resources</h2>
-  <p><a class="btn btn-primary btn-md" href="http://sagelibraries.wikispaces.com/">Sage Wiki</a>
-	  <a class="btn btn-primary btn-md" href="http://sageonevergreen.wordpress.com">Sage Blog</a>
-  		<a class="btn btn-primary btn-md" href="http://sagesupport.eou.edu">Sage Help Desk</a></p>
-  </center>
-</div>
--->

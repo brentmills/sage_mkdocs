@@ -1,0 +1,24 @@
+.wy-side-nav-search {
+	background-color: #75954E;
+}
+.wy-side-nav-search input[type=text] {
+	border-color: #c9c9c9;
+}
+
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a {
+	font-size:110%;
+}
+
+.wy-menu-vertical a {
+	font-size: 95%;
+}
+
+.btn {
+	background-color: #75954E;
+}
+
+/* Mobile */
+
+.wy-nav-top {
+	background-color: #75954E;
+}

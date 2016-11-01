@@ -1,0 +1,22 @@
+site_name: 'Sage Documentation Site'
+pages:
+- Home: 'index.md'
+- Overviews:
+ - 'Getting Started': 'overview/getting_started.md'
+ - 'Circulation Overview': 'overview/cm_circulation_brief.md'
+ - 'Cataloging Overview': 'overview/catm_cataloging_brief.md'
+- Core Modules:
+ - 'Circulation': 'core-modules/circulation_module.md'
+ - 'Cataloging': 'core-modules/cataloging_module.md'
+ - 'OPAC': 'core-modules/opac.md'
+ - 'Administration': 'core-modules/administration.md'
+- Misc:
+ - 'Library Contact Information': 'misc/contact_info.md'
+ - 'Downloadable Documentation': 'misc/downloads.md'
+ - 'Courier Information': 'misc/courier.md'
+ - 'Backend Configurations': 'misc/circ_hold_policies.md'
+ - 'Contributions (How-To)': 'misc/contribute.md'
+
+extra_javascript: [external_links.js]
+
+theme: 'material'
