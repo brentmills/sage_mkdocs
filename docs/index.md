@@ -19,7 +19,7 @@ Sage Staff include:
 - Systems Manager - Beth Longwell <blongwel@eou.edu>
 - Systems Librarian - Brent Mills <brent@hoodriverlibrary.org>
 
-Feel free to contact Beth or Brent in regards to general Evergreen issues (connectivity/troubleshooting/functionality). David is available for cataloging related questions for the Evergreen installation and other, broader cataloging related questions.
+Feel free to contact Beth or Brent in regards to general Evergreen issues (connectivity/troubleshooting/functionality).
 
 This Documentation repository is built with [Markdown](http://daringfireball.net/projects/markdown/) and is based heavily upon the available official documentation for the [Evergreen ILS](http://docs.evergreen-ils.org/) as well as [Sitka Library Consortium's](http://docs.sitka.bclibraries.ca/Sitka/current/html/) available documentation. If you believe any information to be in error, or wish to see other sections further described, please get in contact with Beth or Brent.
 
