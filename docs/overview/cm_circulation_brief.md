@@ -152,3 +152,54 @@ If “6 month” is set and the item is less than 6 months old, the item is only
 * Branch_Only_6months - Only holdable within that one library (Baker's Main Branch)
 
 If age protect is set to None, then no age protection occurs and the holds can be placed on the item from any Sage location.
+
+## Clearing Items In-Transit
+
+When an item is routed from a library location to another, it is placed automatically in "Transit" status. When the item arrives at its destination, it should be checked in. If the item is returned and does not have any holds on it, it will switch to "Reshelving" status. After one day (24 hours), it will automatically switch to "Available" status. If the item is on hold for someone, the system will print a hold slip.
+If the item arrives at its destination but is not checked in properly, it will remain in Transit status even though it might be reshelved. To anyone viewing the catalog, it will look like the item is not available and it will delay holds on the title.
+It is recommended that each library check their transit lists on a regular basis (monthly or weekly) to catch any items that have been routed to their location, but not checked in.
+ 
+**Evergreen's Transit List Interface**
+
+1. In the Evergreen Staff Client, click on Admin > Local Administration > Transit List.
+2. Make sure that the option for "Transit To" (or Transit From, depending on your needs) shows your branch (or whatever location you are checking).
+3. Select the "Transit Date Falls Between" options you wish to use (for example, choosing "Today - 30 days" through "Today - 7 days" will give you a list of items that were put into transit between 7 and 30 days ago and have not yet been checked in).
+4. Click the Retrieve Transits button.
+5. Check to see if an item has been shelved in the stacks, or if it has been placed on the holds shelf, or in any other likely location. If you find it, check it in. If you are unable to find the item (you may wish to try several times before taking action, and you may also wish to contact the sending library to ask them to check their shelves), then mark the item Missing.
+ 
+**Transit Quick Reports**
+
+* Quick Reports > Quick Report Templates > Items > List: My Library's Items In Transit (and not received)
+* Quick Reports > Quick Report Templates > Items > List: Transits Sent from My Library (and not received)
+* Quick Reports > Quick Report Templates > Items > List: Transits Sent to My Library (and not received)
+ 
+**Printing Transit Lists from the Transit List Interface:**
+
+If you wish to print out transit lists to do shelf-checks, you will want to modify the transit_list receipt template in the Receipt Template Editor to include the Call Number and other information in the Line Item section.
+
+Suggestions:
+
+```
+%SORT(transit_item_callnumber)%
+<li>From: %transit_source% To: %transit_dest_lib%<br/>
+When: %transit_source_send_time%<br />
+Barcode: %transit_item_barcode%<br/>
+Call No: %transit_item_callnumber%<br/>
+Title: %transit_item_title%</li>
+Or, for a more streamlined version:
+%SORT(transit_item_callnumber)%
+<li>Call No: %transit_item_callnumber%<br/>
+Title: %transit_item_title%<br/>
+Barcode: %transit_item_barcode%
+</li>
+```
+ 
+**To mark an item Missing that is listed as In Transit:**
+
+1. Open the Item Status screen.
+2. Type or paste in the item's barcode.
+3. Right-click on the item and click "Abort Transits" (or, select the item > Actions for Selected Items > Abort Transits).
+4. A pop-up window will ask you to confirm your action - click "Yes."
+5. Right-click on the item and click "Mark Item Missing" (or, select the item > Actions for Selected Items > Mark Item Missing).
+6. A pop-up window will ask you to confirm your action - click "OK."
+7. A pop-up window will confirm the action is completed - click "OK."
