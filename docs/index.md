@@ -21,7 +21,7 @@ Sage Staff include:
 
 Feel free to contact Beth or Brent in regards to general Evergreen issues (connectivity/troubleshooting/functionality).
 
-This Documentation repository is built with [Markdown](http://daringfireball.net/projects/markdown/) and is based heavily upon the available official documentation for the [Evergreen ILS](http://docs.evergreen-ils.org/) as well as [Sitka Library Consortium's](http://docs.sitka.bclibraries.ca/Sitka/current/html/) available documentation. If you believe any information to be in error, or wish to see other sections further described, please get in contact with Beth or Brent.
+This Documentation repository is built with [Markdown](http://daringfireball.net/projects/markdown/) and is based heavily upon the available official documentation for the [Evergreen ILS](http://docs.evergreen-ils.org/) as well as [Sitka Library Consortium](http://docs.sitka.bclibraries.ca/Sitka/current/html/) and [Georgia PINES](https://gapines.org) available documentation. If you believe any information to be in error, or wish to see other sections further described, please get in contact with Beth or Brent.
 
 <div align="center">
 <div style="background-color: #c9c9c9; padding: 10px; width: 100%; border-style: solid; border-width: 0px">

@@ -25,6 +25,12 @@ For Staff:
 
 - [Sage Map Google Sheet (must be member of sage-lib-general to view)](https://docs.google.com/spreadsheets/d/1G1xSOm5p8s5cKpOef10greO-ZqXDyJnfB_0M-g41pDE/edit#gid=1829970107)
 
+- [Merging Two Duplicate Record (PINES/pdf)](http://pines.georgialibraries.org/sites/default/files/files/Merging%20title%20records.pdf)
+
+	- Reports Training Session (Feb 29, 2016)
+	* [Session Combined Handouts (pdf)](http://sagelib.org/sites/default/files/documents/Reports_Session-Handout_complete.pdf)
+	* [Report Slides (Google Slides)](https://docs.google.com/presentation/d/123ydmJ5JRicG5O9bx6NeDuHWtp4Lp7nO-kPb5z0yUh0/edit?usp=sharing)
+
 For Patrons:
 
 - [Basic Search Tips within Evergreen (pdf)](https://sagelib.org/sites/default/files/Sage_Circ_Basic%20Search%20Tips.pdf)
