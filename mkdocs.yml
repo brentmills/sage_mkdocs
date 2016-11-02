@@ -6,6 +6,7 @@ pages:
 - ['overview/cm_circulation_brief.md', 'Overview', 'Circulation Overview']
 - ['overview/catm_cataloging_brief.md', 'Overview', 'Cataloging Overview']
 - ['overview/patron_faq.md', 'Overview', 'Patron FAQs']
+- ['overview/install.md', 'Overview', 'Evergreen Installation']
 
 - ['core-modules/circulation_module.md', 'Core Modules', 'Circulation']
 - ['core-modules/cataloging_module.md', 'Core Modules', 'Cataloging']
