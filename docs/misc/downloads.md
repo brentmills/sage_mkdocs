@@ -5,36 +5,36 @@
 
 For Staff:
 
-- [Sage Circulation Training Manual (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_Evergreen_Training_Circulation_Manual.pdf)
+- [Sage Circulation Training Manual (pdf)](https://sagelib.org/sites/default/files/Sage_Evergreen_Training_Circulation_Manual.pdf)
 
-- [Sage Circulation Training Manual (doc)](http://sagelibraries.wikispaces.com/file/view/Sage_Evergreen_Training_Circulation_Manual.doc)
+- [First Time Staff Training Guide (pdf)](https://sagelib.org/sites/default/files/Sage_First_Time_Staff_EG_Training.pdf)
 
-- [First Time Staff Training Guide (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_First_Time_Staff_EG_Training.pdf)
+- [Cheat Sheet for Typical On-Desk Actions (pdf)](https://sagelib.org/sites/default/files/Sage_Cheat_Sheet.pdf)
 
-- [First Time Staff Training Guide (doc)](http://sagelibraries.wikispaces.com/file/view/Sage_First_Time_Staff_EG_Training.doc)
+- [Using Receipt Templates Within Evergreen [borrowed from CWMars] (pdf)](https://sagelib.org/sites/default/files/Sage_Receipt_Templates_in_Evergreen.pdf)
 
-- [Recommended Staff Training Outline [for training staff] (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_Rec_Staff_Training_Outline.pdf)
+- [Example Receipt Template Import File [for customized templates] (right click 'Save As')](https://sagelib.org/sites/default/files/Sage_ReceiptTemplates_CWMARS.txt)
 
-- [Recommended Staff Training Outline [for training staff] (doc)](http://sagelibraries.wikispaces.com/file/view/Sage_Rec_Staff_Training_Outline)
+- [Sage Library Logos (zip)](https://sagelib.org/sites/default/files/Final_Sage_Library_Logo.zip)
 
-- [Cheat Sheet for Typical On-Desk Actions (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_Cheat_Sheet.pdf)
+- [Sage Library Barcode Schemes (xlsx)](http://sagelib.org/sites/default/files/BM_barcoderev.xlsx)
 
-- [Using Receipt Templates Within Evergreen [borrowed from CWMars] (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_Receipt_Templates_in_Evergreen.pdf)
+- [Sage Library Shortname Code List - By Library](http://sagelib.org/sites/default/files/LibraryLocationCodes.docx)
 
-- [Example Receipt Template Import File [for customized templates] (right click 'Save As')](http://sagelibraries.wikispaces.com/file/view/Sage_ReceiptTemplates_CWMARS.txt)
+- [Sage Map CSV file (last updated 08/31/2016)](https://sagelib.org/sites/default/files/documents/sage_batch_geo_08312016.csv)
+
+- [Sage Map Google Sheet (must be member of sage-lib-general to view)](https://docs.google.com/spreadsheets/d/1G1xSOm5p8s5cKpOef10greO-ZqXDyJnfB_0M-g41pDE/edit#gid=1829970107)
 
 For Patrons:
 
-- [Basic Search Tips within Evergreen (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_Circ_Basic Search Tips.pdf)
+- [Basic Search Tips within Evergreen (pdf)](https://sagelib.org/sites/default/files/Sage_Circ_Basic%20Search%20Tips.pdf)
 
-- [Basic Search Tips within Evergreen (docx)](http://sagelibraries.wikispaces.com/file/view/Sage_Circ_Basic Search Tips.docx)
-
-- [Renewing Materials through the OPAC (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_Circ_Renewing_Materials_Through_the_OPAC.pdf)
-
-- [Renewing Materials through the OPAC (doc)](http://sagelibraries.wikispaces.com/file/view/Sage_Circ_Renewing_Materials_Through_the_OPAC.doc)
+- [Renewing Materials through the OPAC (pdf)](https://sagelib.org/sites/default/files/Sage_Circ_Renewing_Materials_Through_the_OPAC.pdf)
 
 For Catalogers:
 
-- [Transitioning Copy Templates between Logins (pdf)](http://sagelibraries.wikispaces.com/file/view/Sage_Catalog_Login_Transition.pdf)
+- [Transitioning Copy Templates between Logins (pdf)](http://sagelib.org/sites/default/files/doc_files/Sage_Catalog_Login_Transition.pdf)
 
-- [Transitioning Copy Templates between Logins (docx)](http://sagelibraries.wikispaces.com/file/view/Sage_Catalog_Login_Transition.docx)
+- [Fixed Fields Reference Guide (doc)](https://sagelib.org/sites/default/files/Fixed_Fields_Ref_GuideRev.docx)
+
+- [MARC 999e Values (doc)](https://sagelib.org/sites/default/files/MARC999efValues.docx)
